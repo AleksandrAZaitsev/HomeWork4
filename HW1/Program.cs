@@ -1,14 +1,14 @@
 ﻿//Решение без функции
 
 // Console.WriteLine("введите число: ");
-// int footing = Convert.ToInt32(Console.ReadLine());
+// int numberA = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine("введите число: ");
-// int cube = Convert.ToInt32(Console.ReadLine());
+// int numberB = Convert.ToInt32(Console.ReadLine());
 
 //    int multi = 1;
-//     for (int i = 0; i < cube; i++)
+//     for (int i = 0; i < numberB; i++)
 //     {
-//         multi *= footing;
+//         multi *= numberA;
 //     }
 
 // System.Console.WriteLine(multi);
